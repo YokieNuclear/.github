@@ -34,4 +34,4 @@ OpenMC modeling work spanning reactor types and physics problems.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/ericyokie/) | 
-eric.yokie@gmail.com
+eric.yokie ~~~at~~~ gmail.com
