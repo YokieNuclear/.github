@@ -3,7 +3,7 @@
 M.E. Nuclear Engineering (Penn State, 2026) | B.S. Physics, 
 magna cum laude (Kent State, 2022)
 
-Physicist with 4+ years of professional experience in radiation 
+Physicist with 4 years of professional experience in radiation 
 transport modeling, neutron detector development, and applied 
 Monte Carlo methods. This portfolio showcases independent 
 OpenMC modeling work spanning reactor types and physics problems.
