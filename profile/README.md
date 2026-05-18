@@ -29,9 +29,6 @@ OpenMC modeling work spanning reactor types and physics problems.
   Non-Uniformities in Helium-3 Filled Position Sensitive 
   Proportional Counters.* NIM A (2022). 
   [DOI: 10.1016/j.nima.2022.167156](https://doi.org/10.1016/j.nima.2022.167156)
-- Shiekh et al. *Emerging Accessibility Patterns in Long 
-  Telomeric Overhangs.* PNAS (2022). 
-  [DOI: 10.1073/pnas.2202317119](https://doi.org/10.1073/pnas.2202317119)
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/ericyokie/) | 
