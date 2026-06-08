@@ -14,7 +14,6 @@ OpenMC modeling work spanning reactor types and physics problems.
 |------------|-------------|
 | [AP1000 Criticality Model](https://github.com/YokieNuclear/AP1000-criticality-model) | Pin-resolved full-core criticality analysis of the Westinghouse AP1000 PWR. Includes boron letdown curve validated against published design data. |
 | [HTR-10 Pebble Bed Reactor](https://github.com/YokieNuclear/HTR-10-Pebble-Bed) | Full-core criticality, r-z flux mapping, and Doppler reactivity coefficient analysis of the HTR-10 HTGR prototype. |
-| [Ex-Core Fission Chamber](https://github.com/YokieNuclear/Excore-Fission-Chamber) | Fixed-source OpenMC model of a PWR ex-core fission chamber built from publicly available manufacturer specs. Includes UO₂ coating geometry, AmBe source, and sensitivity analysis (2.14 cps/nv). |
 |[PWR Dry Cask Model](https://github.com/YokieNuclear/Dry_Cask) |  OpenMC fixed-source shielding model of a PWR dry cask with explicit 17x17 pin-lattice geometry, extendable to criticality analysis.
 
 ## Skills
